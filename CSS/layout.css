@@ -1,0 +1,78 @@
+.wrap{
+    background: ;
+    width: 900px;
+    margin: 10px auto;
+    }
+    
+    /*bagian header*/
+    .wrap .header{
+    background:
+    #F3E9DD;
+    padding: 2px 10px;
+    color: #C74B50;
+    
+    }
+    /*akhir header*/
+    /*bagian menu*/
+    .wrap .menu{
+    background:
+    #0DEAD0;
+    color : white;
+    }
+    
+    
+    .wrap .badan .rightside{
+      background: #E5E3C9;
+      float: right;
+      width: 20%;
+      height: 100%;
+    }
+    
+    .wrap .menu ul{
+    padding: 0;
+    margin: 0;
+    background:
+    #BB9981;
+    overflow: hidden;
+    }
+    .wrap .menu ul li{
+    float: left;
+    list-style-type:
+    none;
+    padding: 10px;
+    color : white;
+    }
+    /*akhir menu*/
+    .clear{
+    clear: both;
+    }
+    .badan{
+    height: 450px;
+    }
+    
+    /*bagian sidebar*/
+    .wrap .badan
+    .sidebar {
+    background:
+    #E3B7A0;
+    float: left;
+    width: 25%;
+    height: 100%;
+    }
+    /*akhir sidebar*/
+    .wrap .badan
+    .content {
+    background:
+    #E3CAA5;
+    float: left;
+    height: 100%;
+    width:55%;
+    }
+    .wrap .footer {
+    width: 100%;
+    height: 30px;
+    color: #603601;
+    background: #ECECEC;
+    align: center;
+    }
+    
